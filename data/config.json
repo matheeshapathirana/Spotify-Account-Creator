@@ -1,0 +1,25 @@
+{
+    "settings": {
+        "Threads": 100,
+        "Create_Username": "y",
+        "Use_Proxy": "y",
+        "Change_Avatar": "y"
+    },
+
+    "follow_ids": {
+        "Account_IDs": ["z3v416ukkf5jnx2xi5ndid748","4pgd1os05p618lyc79r0ljg3o"],
+        "Playlist_IDs": ["32JmYpU72ZHoEDbrBh5X3g"],
+        "Artist_IDs": ["2rIMBw5XeYwf9aoAbqA7VZ"]
+    },
+
+    "follow_types": {
+        "Profile": "y",
+        "Playlist": "y",
+        "Artist": "n"
+    },
+
+    "save_methods": {
+        "SQLite": "y",
+        "Text_File": "n"
+    }
+}

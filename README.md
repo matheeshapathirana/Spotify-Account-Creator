@@ -1,10 +1,6 @@
 # Spotify Account Creator + Follower 
  Spotify Account Creator + Follow account or playlist with fully httpx request based. If an error occurs, please report it via [issues](https://github.com/matheeshapathirana/Spotify-Account-Creator/issues/new).
 
-## 💻 Preview
-
-![Console_Image](https://user-images.githubusercontent.com/82868382/206721924-4ab84558-dabb-48a2-a205-e2e70cf0474b.png)
-
 ## 👾 Features
 - Fully request based creator
 - Auto Playlist or Profile or Artist follow
